@@ -1,0 +1,16 @@
+﻿{
+    "Sheet1": [
+        {
+            "Anchor": "staffing",
+            "Destination": "https://www.roberthalf.com/"
+        },
+        {
+            "Anchor": "locations",
+            "Destination": "https://www.roberthalf.com/"
+        },
+        {
+            "Anchor": "robert half",
+            "Destination": "https://www.roberthalf.com/"
+        }
+    ]
+}
